@@ -8,6 +8,6 @@ public class BitvaultApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BitvaultApplication.class, args);
-        System.out.println("Enter your name:");
+        System.out.println("Enter your nam");
     }
 }
