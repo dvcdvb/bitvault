@@ -1,2 +1,2 @@
 # bitvault
-a little java password tool
+a little java password manager tool
