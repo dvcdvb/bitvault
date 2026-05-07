@@ -1,2 +1,2 @@
 # bitvault
-A Passwordmanager
+A Passwordmanager written in Java
